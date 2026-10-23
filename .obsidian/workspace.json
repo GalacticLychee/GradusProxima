@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main goth mommies/General Information/Welcome.md",
+                "file": "main goth mommies/Editorial Resources/Edit Log and Editor's Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Edit Log and Editor's Notes"
             }
           }
         ]
@@ -201,7 +201,7 @@
             }
           },
           {
-            "id": "4b869a163ffbb99f",
+            "id": "9cb6294b08280eb1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -215,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b6b45aabcead860",
+  "active": "157ae9e1103a5aa6",
   "lastOpenFiles": [
-    "main goth mommies/General Information/Welcome.md",
+    "main goth mommies/Editorial Resources/Canvas.canvas",
     "main goth mommies/Editorial Resources/Edit Log and Editor's Notes.md",
+    "main goth mommies/General Information/Welcome.md",
     "main goth mommies/Ships/C-5 NewStar.md",
     "main goth mommies/Editorial Resources/Templates/Ship Template.md",
     "main goth mommies/Ships/Star Runner (Line).md",
@@ -260,7 +261,6 @@
     "main goth mommies/Factions/Union of Soviet Socialist Republics.md",
     "main goth mommies/Factions/United Kingdom.md",
     "main goth mommies/Factions/United States of America.md",
-    "main goth mommies/Editorial Resources/Templates/Faction Template.md",
     "main goth mommies/Species/Animal/Ranarqas",
     "main goth mommies/Species/Animal/Novulper",
     "main goth mommies/Species/Animal/Inimicitia",

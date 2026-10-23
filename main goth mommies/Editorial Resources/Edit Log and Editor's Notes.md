@@ -38,3 +38,6 @@
 - added [[Kelledars]]
 - added [[C-5 NewStar]]
 - added [[Sentinels of Icket|Sentinels of Icket]]
+
+# October 23 2026
+- started trying to set up github stuff

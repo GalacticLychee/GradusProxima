@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"5b619ae509d35fd8","x":-221,"y":22,"width":250,"height":60,"type":"text","text":"goon"},
+		{"id":"6423f4ed51558132","x":70,"y":-184,"width":1550,"height":1624,"type":"link","url":"https://http.cat/"}
+	],
+	"edges":[]
+}
