@@ -1,0 +1,219 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "main goth mommies",
+      "guid": "00b7825a-a377-494e-b890-d80e209a71a3",
+      "relay": "54314de4-db22-4ac7-929f-ecc07dd555ba",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "remoteActivity": [
+        {
+          "guid": "fcbf250d-1f20-4c8e-bac9-bac6ab842489",
+          "timestamp": 1792727081166
+        },
+        {
+          "guid": "8c481e4e-b939-4966-a2dc-3451caf28f8d",
+          "timestamp": 1792712157094
+        },
+        {
+          "guid": "142b5f2e-6d26-4452-acbb-78d46aa6ea54",
+          "timestamp": 1792712001174
+        },
+        {
+          "guid": "49fec60f-8bc5-45bc-9266-1531d5f3f7f0",
+          "timestamp": 1792711255904
+        },
+        {
+          "guid": "bd5c4e26-1eeb-42dc-a767-3d69b9b4920b",
+          "timestamp": 1792711244491
+        },
+        {
+          "guid": "0b529eee-91ee-4422-9e59-bbc2eedbda16",
+          "timestamp": 1792710898885
+        },
+        {
+          "guid": "981c1369-c33b-43ce-9f6c-1febf992d56b",
+          "timestamp": 1792710041067
+        },
+        {
+          "guid": "8e6f74b4-2e2e-4c50-948d-bda0aac47b3f",
+          "timestamp": 1792709833324
+        },
+        {
+          "guid": "dbb86edb-635e-4604-b2d1-43b4a34c3bc9",
+          "timestamp": 1792709731794
+        },
+        {
+          "guid": "84572abf-56b9-4c48-81ca-7961e5eec8b8",
+          "timestamp": 1792707440902
+        },
+        {
+          "guid": "57582003-2033-4268-ac1b-c801e6d41c27",
+          "timestamp": 1792707436339
+        },
+        {
+          "guid": "f862d141-ee51-4721-bf73-83659743ae4e",
+          "timestamp": 1792707392472
+        },
+        {
+          "guid": "7fe059ba-5431-4796-a83a-8c8a9fb8f472",
+          "timestamp": 1792707384967
+        },
+        {
+          "guid": "e055f80f-6045-404a-a006-08a573215324",
+          "timestamp": 1792707322381
+        },
+        {
+          "guid": "72b69997-6557-4ebc-bba5-574a8037c5a8",
+          "timestamp": 1792707239474
+        },
+        {
+          "guid": "a6ea8811-29be-426d-a03b-38e725bda59f",
+          "timestamp": 1792704902769
+        },
+        {
+          "guid": "1b634591-6887-42ee-89a6-ea89411e58fb",
+          "timestamp": 1792704861590
+        },
+        {
+          "guid": "3e085231-dc01-46bd-9c73-bdd640734803",
+          "timestamp": 1792704859376
+        },
+        {
+          "guid": "d08a00ad-cac6-4b86-8392-c1e9d8530663",
+          "timestamp": 1792704854827
+        },
+        {
+          "guid": "5820a2b0-79d6-493f-830c-7aab811b47b6",
+          "timestamp": 1792704797247
+        },
+        {
+          "guid": "4b4f490c-b986-4ec9-8908-496076f56026",
+          "timestamp": 1792704788969
+        },
+        {
+          "guid": "8a2c54dd-a54b-442f-901e-c9b165de8543",
+          "timestamp": 1792704770275
+        },
+        {
+          "guid": "0d8fc346-68a4-43e3-8bbb-3892d14b1d8d",
+          "timestamp": 1792704062104
+        },
+        {
+          "guid": "f2672381-82ae-44b0-b351-dadddf259fa8",
+          "timestamp": 1792703393846
+        },
+        {
+          "guid": "76e4df14-82a4-454f-bed2-0133e99c361d",
+          "timestamp": 1792701456702
+        },
+        {
+          "guid": "cc3126ed-a2a1-42b0-817c-db3132f531aa",
+          "timestamp": 1792701256765
+        },
+        {
+          "guid": "a80cd670-57c5-4ad5-bd22-2b705e109f59",
+          "timestamp": 1792701188886
+        },
+        {
+          "guid": "ff4bdada-034c-4da4-90cd-0c87d2660d03",
+          "timestamp": 1792545304895
+        },
+        {
+          "guid": "af4dba89-e14c-4dd2-8bd3-12c9433f23cb",
+          "timestamp": 1792532109600
+        },
+        {
+          "guid": "25be0bfa-d02b-4de7-850d-62e3f389f447",
+          "timestamp": 1792531798805
+        },
+        {
+          "guid": "7c077d79-ad4c-48f1-b5bc-be531ae6d738",
+          "timestamp": 1792525096347
+        },
+        {
+          "guid": "c66dd85d-463b-4c6e-9b6b-f988a540f4e0",
+          "timestamp": 1792525091603
+        },
+        {
+          "guid": "398d2604-c420-44d5-9ca7-790193abd2fd",
+          "timestamp": 1792507703219
+        },
+        {
+          "guid": "f45863b8-e310-4294-ae70-f86ad9d95c02",
+          "timestamp": 1792507507424
+        },
+        {
+          "guid": "424884f7-1e49-43f0-9a02-85fdaa2c8dde",
+          "timestamp": 1792468106245
+        },
+        {
+          "guid": "01b64623-3cfc-4770-a203-abc6fca801b5",
+          "timestamp": 1792467745571
+        },
+        {
+          "guid": "ac24eb82-51b9-4611-a851-0f607dc7a31f",
+          "timestamp": 1792467668480
+        },
+        {
+          "guid": "57fea634-d9d7-4524-9158-9bad498afab0",
+          "timestamp": 1792467660305
+        },
+        {
+          "guid": "18ba1920-4c1d-421a-a44e-133030990691",
+          "timestamp": 1792450248362
+        },
+        {
+          "guid": "9ed1dcbb-aec5-43db-b4ef-377c2c7bc21d",
+          "timestamp": 1792448173631
+        },
+        {
+          "guid": "cb3b7b4f-ee83-4940-84c6-fdbbef2966a6",
+          "timestamp": 1792444792565
+        },
+        {
+          "guid": "80de05a5-4dd0-4a32-a5f9-0b24470e8079",
+          "timestamp": 1792443106292
+        },
+        {
+          "guid": "1a4d8cb3-7497-4095-bb65-bf77ca88bf30",
+          "timestamp": 1792442074030
+        }
+      ]
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDiffLinkStatus": false,
+  "enableDiscordLogin": false,
+  "enableDeviceManagement": true,
+  "enableResourceMeter": false,
+  "enableDeltaLogging": false,
+  "enableNetworkLogging": false,
+  "enableVerifyUploads": false,
+  "enableHSMRecording": false,
+  "enableHSMResourceContracts": false,
+  "enableDraftMode": false,
+  "enableFolderIdbMigration": false,
+  "enableMetadataHealthNotice": true,
+  "enableNoteStateInspector": false,
+  "enableSavingFlagPolyfill": true,
+  "enableFrontmatterDuplicateRecovery": false,
+  "enableSingleUserHistory": true,
+  "enableStreamerMode": false,
+  "debugging": false,
+  "login": {
+    "provider": "google"
+  }
+}

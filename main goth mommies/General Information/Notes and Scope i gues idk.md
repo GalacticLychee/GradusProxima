@@ -1,0 +1,1 @@
+this project is conducted from an agnostic scientific perspective, religious beliefs are kept seperate from the project

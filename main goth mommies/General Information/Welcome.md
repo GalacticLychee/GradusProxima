@@ -1,0 +1,10 @@
+"The Next Step", In this world, Prominent technology has popularized the idea of space and new innovation, prompting the world to look up to the stars.
+
+---
+# １９３９ - １９４６
+
+When being shown rocket motor tests in 1939, [Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) seemed quite interested in the idea with research and development being made quickly on what would be the V-2 rocket.![[Pasted image 20261019001754.png]]Opposed to [Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) thinking it was too expensive in OTL and not fully using them until 1944. During WW2, the rockets were wildly inaccurate and couldn't kill as much people for every missile, Later in 1942 new missile control technology was developed to install into the rocket, improving accuracy and allowed important structures to be bombed without anti-air defenses to take them down.
+
+[Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) was impressed by this new wonder weapon and put more focus towards it later into the years, as it helped with the war effort and was becoming more and more cheaper. British Intelligence had managed to obtain the secrets of this missile and not before long, they had granted some rockets to be built in Scotland, and quite soon the British were now talking about producing their own missiles to use against the failing Germans and use as an important weapon in the future. The public became aware of the missiles and some speculated that attention will be put towards the heavens and the idea of space technology roared within communities, mainly the [[United States of America]].
+
+As WW2 ends with Nuclear Bombs being dropped on Hiroshima and Nagasaki, Operation Paperclip had gone into effect, as ~2,000 German rocket scientists were taken back to the [[United States of America]] between 1945 and 1960 along with V-2 rockets. Soon after, the Russians had started a similar operation known as Operation Osoaviakhim, And now the nations with rocket technology (as in the [[United States of America]], [[Union of Soviet Socialist Republics]], [[United Kingdom]]) have all entered a new early space race.
