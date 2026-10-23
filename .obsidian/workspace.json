@@ -215,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "157ae9e1103a5aa6",
+  "active": "9cb6294b08280eb1",
   "lastOpenFiles": [
     "main goth mommies/Editorial Resources/Canvas.canvas",
     "main goth mommies/Editorial Resources/Edit Log and Editor's Notes.md",
