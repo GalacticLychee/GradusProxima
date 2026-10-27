@@ -42,3 +42,6 @@
 # October 23 2026
 - started trying to set up github stuff
 - set up github stuff
+
+# October 27 2026
+- added a message to the edit log
