@@ -41,3 +41,4 @@
 
 # October 23 2026
 - started trying to set up github stuff
+- set up github stuff
